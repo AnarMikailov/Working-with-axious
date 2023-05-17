@@ -1,0 +1,9 @@
+.user-card {
+  display: flex;
+  justify-content: space-around;
+  border: 1px solid black;
+}
+.control-container {
+  align-self: center;
+  margin: 1rem;
+}

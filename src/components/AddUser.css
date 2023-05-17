@@ -1,0 +1,25 @@
+/* .wrapper {
+    width: 400px;
+    text-align: center;
+} */
+
+.app {
+  border: 3px solid black;
+  /* width: 400px; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3rem;
+}
+
+.form-control {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.3rem;
+  align-items: center;
+}
+.form-control input {
+  padding: 0.4rem;
+  width: 20rem;
+}
